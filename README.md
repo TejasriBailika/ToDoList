@@ -16,7 +16,7 @@ A beginner-friendly, stylish **To-Do List** built using **HTML**, **CSS**, and *
 
 ## 📸 Screenshot
 
-![App Screenshot](https://github.com/TejasriBailika/ToDoList/blob/main/Screenshot.png?raw=true)
+![App Screenshot](To_Do_List/Screenshot.png)
 
 ---
 
