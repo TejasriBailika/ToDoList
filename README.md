@@ -1,34 +1,29 @@
 # 📝 To-Do List Web App
 
-A beginner-friendly and stylish To-Do List built using **HTML**, **CSS**, and **JavaScript**. It allows users to manage their daily tasks easily through a clean interface.
+A beginner-friendly, stylish **To-Do List** built using **HTML**, **CSS**, and **JavaScript**. This project helps manage your daily tasks with a clean UI and interactive features.
+
+---
 
 ## ✨ Features
 
-- ➕ Add new tasks  
-- ✅ Mark tasks as completed (green strike-through)
-- ❌ Delete tasks  
-- 💾 Save tasks automatically using **Local Storage**  
-- 🎨 Clean and responsive design
+- ➕ Add new tasks
+- ✅ Mark tasks as completed (with green strike-through)
+- ❌ Delete tasks individually
+- 💾 Automatically saves tasks using **Local Storage**
+- 🎨 Clean and responsive interface
 
-## 📁 Technologies Used
+---
 
-- HTML
-- CSS
-- JavaScript
-- Local Storage
+## 📸 Screenshot
 
-## 📸 How It Looks
+![App Screenshot](Screenshot.png)
 
-You can see how the app looks by cloning and opening `index.html` in your browser.
+---
 
-> Screenshot (optional): You can upload a screenshot and name it `screenshot.png`  
-> Then include:  
-> `![To-Do Screenshot](screenshot.png)`
+## 🚀 How to Use
 
-## 🚀 How to Run
-
-1. Download or clone this repository
-2. Open the `index.html` file in your browser
+1. Clone the repository or download the ZIP  
+2. Open `index.html` in your browser
 
 ```bash
 git clone https://github.com/TejasriBailika/ToDoList.git
