@@ -16,7 +16,7 @@ A beginner-friendly, stylish **To-Do List** built using **HTML**, **CSS**, and *
 
 ## 📸 Screenshot
 
-![App Screenshot](To_Do_List/Screenshot.png)
+![App Screenshot](To_Do_List/Screenshot.png) 
 
 ---
 
